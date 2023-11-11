@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmicrolesson"]=self["webpackChunkmicrolesson"]||[]).push([[434],{434:function(e,t,s){s.r(t),s.d(t,{default:function(){return l}});var n=function(){var e=this,t=e._self._c;return t("div",{staticClass:"Preview1"},[t("div",{staticClass:"changePage"},[t("button",{staticClass:"next",on:{click:e.changeNext}},[e._v("下一页 »")])])])},c=[],a=(s(7658),{name:"preview1",methods:{changeNext(){this.$router.push({path:"/preview2"})}}}),i=a,r=s(1001),u=(0,r.Z)(i,n,c,!1,null,"c9e7b9dc",null),l=u.exports}}]);
+//# sourceMappingURL=434.c4a49561.js.map
